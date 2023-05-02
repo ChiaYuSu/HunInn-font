@@ -1,5 +1,37 @@
 # HunInn-font
 
+## 網頁字型 CDN
+### v1.0
+```css
+@font-face {
+    font-family: 'HunInn';
+    src: url(https://cdn.jsdelivr.net/gh/ChiaYuSu/HunInn-font@main/jf-openhuninn-1.woff2) format("woff2");
+    font-display: swap;
+    font-weight: 400;
+}
+```
+
+### v1.1
+```css
+@font-face {
+    font-family: 'HunInn';
+    src: url(https://cdn.jsdelivr.net/gh/ChiaYuSu/HunInn-font@main/jf-openhuninn-1_1.woff2) format("woff2");
+    font-display: swap;
+    font-weight: 400;
+}
+```
+
+### v2.0
+```css
+@font-face {
+    font-family: 'HunInn';
+    src: url(https://cdn.jsdelivr.net/gh/ChiaYuSu/HunInn-font@main/jf-openhuninn-2.woff2) format("woff2");
+    font-display: swap;
+    font-weight: 400;
+}
+```
+
+
 ## 著作權與授權
 - 本字型是基於 SIL Open Font License 1.1 改造just-font公司所開發、發表的「[jf open 粉圓](https://github.com/justfont/open-huninn-font)」字型。
 - 本字型亦基於 SIL Open Font License 1.1 授權條款免費公開，關於授權合約的內容、免責事項等細節，請詳讀 License 文件。
